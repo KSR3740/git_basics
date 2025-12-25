@@ -1,2 +1,2 @@
 one 2
-new line one.txt
+new line merge one.txt
